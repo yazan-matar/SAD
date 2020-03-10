@@ -1,2 +1,2 @@
-# SAD---Simple-Autonomous-Dog
+# SAD - A Simple Autonomous Dog
 A smart Toy-Car implementation
